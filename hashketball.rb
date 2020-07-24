@@ -1,5 +1,5 @@
 def game_hash
-  epic_game = {
+  {
   :home => {
     :team_name => "Brooklyn Nets",
     :colors => ["Black", "White"],
